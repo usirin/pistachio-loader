@@ -1,0 +1,26 @@
+{
+  "name": "pistachio-loader",
+  "version": "0.1.0",
+  "description": "Webpack loader for transpiling pistachio templates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usirin/pistachio-loader.git"
+  },
+  "keywords": [
+    "pistachio",
+    "loader"
+  ],
+  "author": "Umut Sirin <umutsirin1@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/usirin/pistachio-loader/issues"
+  },
+  "homepage": "https://github.com/usirin/pistachio-loader#readme",
+  "dependencies": {
+    "pistachio-compiler": "^0.1.0"
+  }
+}
