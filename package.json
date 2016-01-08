@@ -1,6 +1,6 @@
 {
   "name": "pistachio-loader",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Webpack loader for transpiling pistachio templates",
   "main": "index.js",
   "scripts": {
